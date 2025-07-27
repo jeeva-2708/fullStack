@@ -1,0 +1,12 @@
+img{
+    float: left;
+}
+.cat{
+    float: left;
+}
+.dog{
+    float: right;
+}
+footer{
+    clear: both;;
+}
